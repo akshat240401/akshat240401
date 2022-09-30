@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, My name is Akshat
+#### I am an Aspiring Full-Stack Developer
+![I am an Aspiring Full-Stack Developer](https://i.ibb.co/0VQQCs8/Blue-White-Geometric-Business-Blog-Banner.png)
 
-<!--
-**akshat240401/akshat240401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate in Web Designing, Coding and Integration with intuitive Problem-Solving Skills. Proﬁcient in PYTHON, JAVASCRIPT, C, C++, HTML5, CSS3. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions. Looking to start the career with a reputed ﬁrm driven by technology.
 
-Here are some ideas to get you started:
+Skills: HTML / CSS / JS / PYTHON / REACT / MONGO DB / EXPRESS JS / NODE JS  / MySQL / C /  C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
