@@ -2,8 +2,7 @@
 🎓 **M.S. Computer Science** | Rochester Institute of Technology (RIT)  
 💻 **Software Developer | AI & Quantum Computing Enthusiast**  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-akshatmehta24-blue?logo=linkedin)](https://www.linkedin.com/in/akshatmehta24)  
-[![GitHub](https://img.shields.io/badge/GitHub-akshat240401-black?logo=github)](https://github.com/akshat240401)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-akshatmehta24-blue?logo=linkedin)](https://www.linkedin.com/in/akshatmehta24)
 
 ---
 
