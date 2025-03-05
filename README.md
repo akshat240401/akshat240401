@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Akshat Mehta  
 🎓 **M.S. Computer Science** | Rochester Institute of Technology (RIT)  
-💻 **Software Developer | AI & Quantum Computing Enthusiast**  
+💻 **Software Developer | Data Science, AI/ML & Quantum Computing Enthusiast**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-akshatmehta24-blue?logo=linkedin)](https://www.linkedin.com/in/akshatmehta24)
 
